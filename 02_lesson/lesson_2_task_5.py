@@ -16,3 +16,4 @@ season = month_to_season(month)
 
 
 print(f"Месяц {month}: {season}")
+
