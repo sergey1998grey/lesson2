@@ -1,5 +1,5 @@
 import math
-11111111111111111111111111111111111111111111111111111111
+
 
 def square(side):
     area = side * side
